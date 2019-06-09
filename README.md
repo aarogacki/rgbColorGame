@@ -4,7 +4,7 @@
 This is a rbg Color guessing game with two modes: easy and hard. This program uses HTML, CSS, and Javascript.
 
 ## Live
-[Click here for a demo](https://www.alainarogacki.com/rgbColorGame/)
+[Click here for a demo](https://alaina-codes.github.io/rgbColorGame/)
 
 ## Motivation
 
